@@ -1,9 +1,7 @@
 Manifest-Version: 1.0
-Built-By: F1243
-Build-Jdk: 11.0.8
+Build-Jdk-Spec: 11
 Implementation-Title: spring-flo-sample
 Implementation-Version: 0.0.1.BUILD-SNAPSHOT
-Implementation-Vendor-Id: org.springframework
 Implementation-Vendor: Pivotal Software, Inc.
 Main-Class: org.springframework.flo.Application
 Created-By: Maven Integration for Eclipse
