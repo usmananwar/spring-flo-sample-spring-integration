@@ -42,4 +42,8 @@ public class CORSFilter implements Filter {
 		System.out.println("Response Status Code is: " + response.getStatus());
 	}
 
+	@Override
+	public void destroy() {
+	}
+
 }
